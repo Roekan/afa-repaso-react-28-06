@@ -1,7 +1,10 @@
 .box-footer{
     background-color: #666;
+    max-width: 100vw;
+    padding: 0.3rem;
 }
 
 .titleFooter{
     color: rgb(170, 81, 81);
 }
+

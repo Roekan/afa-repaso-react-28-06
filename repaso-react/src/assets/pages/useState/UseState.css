@@ -1,0 +1,55 @@
+.container{
+    margin: 2rem 0rem;
+    max-width: 100vw;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+.row{
+    padding: 1rem;
+    margin: 1rem;
+    border: 2px solid #fff;
+    border-radius: 2rem;
+}
+
+
+.box-title-use-effect{
+    padding: 1.4rem;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(255,255,255,0.2);
+}
+
+.box-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 0, 0, 0.4);
+}
+
+.title{
+    color: #646cff;
+}
+
+.subtitle{
+    color: rgb(169, 0, 169);
+    text-decoration: underline;
+}
+
+.input-name{
+    margin: 0.4rem;
+    padding: 0.6rem;
+    border: 2px solid #faff00;
+    background-color: #666;
+    color: #faff00;
+}
+
+.button{
+    margin: 0.4rem;
+    padding: 0.6rem;
+    border: 2px solid #faff00;
+    background-color: #666;
+    color: #faff00;
+}

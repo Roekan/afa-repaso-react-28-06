@@ -1,0 +1,20 @@
+.btn-counter{
+    margin:0.6rem ;
+}
+
+.container{
+    display: flex;
+}
+
+
+.btn-local-storage{
+margin: 1rem;
+}
+
+.input-name-local-storage{
+    margin: 0.4rem;
+    padding: 0.6rem;
+    border: 2px solid #faff00;
+    background-color: #666;
+    color: #faff00;
+}
