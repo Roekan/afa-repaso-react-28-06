@@ -13,24 +13,24 @@ const UseState = () => {
       </div>
       
       <div className='container'>
-        <div className='row'>
+        <div className='fila'>
           <h4 className='subtitle'>Contador</h4><br/>
           <UseStateCounter/><br/><br/>
         </div>
 
-        <div className='row'>
+        <div className='fila'>
           <h4 className='subtitle'>Hazme mas viejo</h4><br/>
           <HazmeMasViejo/><br/><br/>
         </div>
 
-        <div className='row'>
+        <div className='fila'>
           <h4 className='subtitle'>MIMIMI Traductor</h4><br/>
           <MimimiTraductor/><br/><br/>
         </div>
       </div>
 
       <div className='container'>
-        <div className='row'>
+        <div className='fila'>
           <h4 className='subtitle'>Texto en LocalStorage</h4>
           <LocalStorage/><br/><br/>
         </div>

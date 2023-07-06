@@ -10,7 +10,8 @@
 .box-title-header{
     font-size: 0.8rem;
     display:flex;
-    align-items: start;
+    align-items: center;
+    justify-content: center;
 }
 
 .box-menu a{
@@ -24,4 +25,30 @@
 .image{
     max-width:6vw;
     border-radius: 50%;
+}
+
+.container-link-menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-link-menu{
+    
+    color: #646cff;
+    font-weight:bold;
+    margin: 1px;
+    width: 5rem;
+}
+
+
+
+.box-logout, .box-login{
+    cursor:pointer;
+    transition: all 0.4s;
+}
+
+.box-logout:hover, .box-login:hover{
+    color: #fff;
+    transition: all 0.4s;
 }
